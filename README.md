@@ -48,10 +48,12 @@ Final-year Computer Science & Statistics student at Ain Shams University (GPA 3.
 
 ## Featured Projects
 
-### 🏢 [AnalyticOS — Enterprise ERP Analytics Dashboard](https://github.com/mwmnmhsn/analyticOS)
-> React.js · Node.js · MySQL · Python · Power BI · Groq AI API
+### 🏢 [AnalyticOS — Enterprise ERP/HR Analytics Dashboard](https://github.com/mwmnmhsn/analyticOS)
+> React.js · Node.js · MySQL · Python · Power BI · Groq AI API · Pandas · OpenPyXL
 
-Full-stack ERP analytics system with 6 enterprise modules (HR, Sales, Finance, IT, PR, Inventory), role-based dashboards, and a bilingual AI assistant powered by LLaMA 3.3-70B.
+**Graduation Project** — Full-stack ERP analytics system covering 6 enterprise modules (HR, Sales, Finance, IT, PR, Inventory) with role-based dashboards and a bilingual AI assistant powered by LLaMA 3.3-70B.
+
+The analytics layer includes a **Branch Sales Performance module**: automated processing of 14-month sales logs across 10 branches, generating structured Excel reports with Arabic month labels, conditional formatting, and zero manual effort.
 
 ---
 
@@ -59,19 +61,6 @@ Full-stack ERP analytics system with 6 enterprise modules (HR, Sales, Finance, I
 > Python · scikit-learn · Pandas · Matplotlib · Seaborn
 
 Compared K-Means, Hierarchical, and DBSCAN on 200 mall customers. Identified 5 consumer personas and discovered a "Spending Cliff" pattern in customers aged 40+.
-
----
-
-### 📊 [Branch Sales Performance Report](https://github.com/mwmnmhsn/branch-sales-report)
-> Python · Pandas · OpenPyXL · Excel
-
-Automated 14-month sales analysis across 10 branches — Arabic month labels, conditional formatting, and zero manual effort on monthly reporting.
-
----
-
-## GitHub Stats
-
-![Mo'men's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwmnmhsn&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
 
